@@ -1,0 +1,6 @@
+{
+  "name": "Developer Birthday Card",
+  "description": "An interactive, developer-themed animated birthday card for Radouane's 19th birthday.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
